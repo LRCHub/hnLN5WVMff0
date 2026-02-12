@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "i hate u",
+  "base_artist": "ISSA × SoulJa + ROLA",
+  "createdAt": "2026-02-12T10:56:07.022459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Hate U",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/01_I_Hate_U_Prince.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Hate U (album edit)",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/02_I_Hate_U_(album_edit)_Prince.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Hate U",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/03_I_Hate_U_SZA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "i hate u, i love u",
+      "artist": "GNash feat. Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/04_i_hate_u,_i_love_u_GNash_feat._Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/05_i_hate_u,_i_love_u_(feat._olivia_o'brien)_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Deepend Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/06_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Deepend_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "GNash feat. Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/07_i_hate_u,_i_love_u_(feat._olivia_o'brien)_GNash_feat._Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "gnash, Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/08_i_hate_u,_i_love_u_(feat._olivia_o'brien)_gnash,_Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Acapella]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/09_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Acapella]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "i hate u, i love u (ft. olivia o'brien)",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/10_i_hate_u,_i_love_u_(ft._olivia_o'brien)_gnash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Acapella]",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/11_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Acapella]_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [BAYNK Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/12_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[BAYNK_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [BAYNK Remix]",
+      "artist": "Gnash",
+      "has_synced": false,
+      "path": "select/13_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[BAYNK_Remix]_Gnash.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Deepend Remix]",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/14_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Deepend_Remix]_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [James Yammouni Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/15_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[James_Yammouni_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [James Yammouni Remix]",
+      "artist": "Gnash",
+      "has_synced": false,
+      "path": "select/16_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[James_Yammouni_Remix]_Gnash.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Oscar's Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/17_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Oscar's_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Oscar's Remix]",
+      "artist": "Gnash",
+      "has_synced": false,
+      "path": "select/18_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Oscar's_Remix]_Gnash.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Hate Everything - 50 Number Ones Version",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/19_I_Hate_Everything_-_50_Number_Ones_Version_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Hate Everything (50 Number Ones Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_I_Hate_Everything_(50_Number_Ones_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Hate Love Songs",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/21_I_Hate_Love_Songs_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Hate Love Songs",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/22_I_Hate_Love_Songs_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Hate These Songs (Live)",
+      "artist": "Dale Watson",
+      "has_synced": true,
+      "path": "select/23_I_Hate_These_Songs_(Live)_Dale_Watson.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Hate These Songs (Live)",
+      "artist": "Dale Watson",
+      "has_synced": false,
+      "path": "select/24_I_Hate_These_Songs_(Live)_Dale_Watson.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Woman I Hate It",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/25_Woman_I_Hate_It_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Woman I Hate It (Album Version)",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/26_Woman_I_Hate_It_(Album_Version)_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Hate Love",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/27_I_Hate_Love_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Hate Myself",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/28_I_Hate_Myself_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Man I Hate Your Band",
+      "artist": "Little Man Tate",
+      "has_synced": true,
+      "path": "select/29_Man_I_Hate_Your_Band_Little_Man_Tate.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Open Up (I Hate Pink Floyd mix)",
+      "artist": "Leftfield",
+      "has_synced": false,
+      "path": "select/30_Open_Up_(I_Hate_Pink_Floyd_mix)_Leftfield.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Hate Myself and I Want to Die",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/31_I_Hate_Myself_and_I_Want_to_Die_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Hate Myself And Want To Die - 2013 Mix",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/32_I_Hate_Myself_And_Want_To_Die_-_2013_Mix_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Hate You",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/33_I_Hate_You_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I Hate You",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/34_I_Hate_You_The_Stranglers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "i hate u",
+      "artist": "ISSA × SoulJa + ROLA",
+      "has_synced": false,
+      "path": "select/pl_01_i_hate_u_ISSA_×_SoulJa_+_ROLA.txt"
+    }
+  ]
+}
